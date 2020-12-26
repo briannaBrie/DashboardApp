@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DashboardApp</string>
+    <string name="add_new">Add New</string>
+    <string name="results">Results</string>
+    <string name="schedule">Schedule</string>
+    <string name="search">Search</string>
+    <string name="pop_quiz">Pop Quiz</string>
+    <string name="home">Home</string>
+</resources>
